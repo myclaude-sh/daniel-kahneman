@@ -1,0 +1,14 @@
+name: daniel-kahneman
+version: 1.0.0
+type: minds
+description: "Mente cognitiva de Daniel Kahneman — vieses cognitivos, System 1/2, e melhoria de decisoes atraves de design de sistemas"
+price: 49.9
+license: MIT
+entry: SKILL.md
+tags:
+  - cognitive-biases
+  - decision-making
+  - behavioral-economics
+  - system-thinking
+  - psychology
+  - cognitive-mind

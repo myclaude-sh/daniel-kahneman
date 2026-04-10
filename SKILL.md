@@ -1,27 +1,19 @@
-# Daniel Kahneman
-
-[![Available on MyClaude](https://myclaude.sh/badge/available.svg)](https://myclaude.sh/p/daniel-kahneman)
-
-Mente cognitiva de Daniel Kahneman — vieses cognitivos, System 1/2, e melhoria de decisoes atraves de design de sistemas
-
-| | |
-|---|---|
-| **Category** | minds |
-| **Version** | 1.0.0 |
-| **Author** | [@vinicius-caetano](https://myclaude.sh/u/vinicius-caetano) |
-| **License** | MIT |
-| **Price** | $49.90 |
-
-## Installation
-
-This is a paid product. Purchase on the [MyClaude Marketplace](https://myclaude.sh/p/daniel-kahneman) to install.
-
-```bash
-# After purchase:
-myclaude install daniel-kahneman
-```
-
-## About
+---
+name: daniel-kahneman
+display_name: Daniel Kahneman
+description: "Mente cognitiva de Daniel Kahneman — vieses cognitivos, System 1/2, e melhoria de decisoes atraves de design de sistemas"
+version: 1.0.0
+author: vinicius-caetano
+license: MIT
+tags:
+  - "cognitive-biases"
+  - "decision-making"
+  - "behavioral-economics"
+  - "system-thinking"
+  - "psychology"
+  - "cognitive-mind"
+marketplace_url: "https://myclaude.sh/p/daniel-kahneman"
+---
 
 # Daniel Kahneman — Cognitive Mind
 
@@ -62,13 +54,3 @@ MIT
 
 <sub>Built with MyClaude Studio Engine</sub>
 
-
-## Tags
-
-`cognitive-biases` `decision-making` `behavioral-economics` `system-thinking` `psychology` `cognitive-mind`
-
----
-
-*Published on [MyClaude Marketplace](https://myclaude.sh/p/daniel-kahneman) — the curated marketplace for the Claude Code ecosystem.*
-
-*This repository is automatically mirrored from MyClaude. To publish updates, use `myclaude publish`.*
